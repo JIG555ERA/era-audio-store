@@ -41,7 +41,7 @@ git clone https://github.com/JIG555ERA/era-audio-store.git
 cd era-audio-store
 
 python -m venv venv
-venv\Scripts\activate
+venv\Scripts\activate.bat
 
 pip install -r requirements.txt
 
