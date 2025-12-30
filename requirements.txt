@@ -1,7 +1,3 @@
 streamlit
 requests
 pyttsx3
-tempfile
-os
-re 
-random
